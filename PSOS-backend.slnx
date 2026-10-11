@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="PSOS-Api/PSOS-Api.csproj" />
+  <Project Path="PSOS-ApplicationService/PSOS-ApplicationService.csproj" />
+  <Project Path="PSOS-BusinessObjects/PSOS-BusinessObjects.csproj" />
+  <Project Path="PSOS-DataService/PSOS-DataService.csproj" />
+</Solution>
